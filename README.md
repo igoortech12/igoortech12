@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">SysAdmin and DevOps in construction</h3>
 
+![snake gif](https://github.com/igoortech12/igoortech12/blob/output/github-contribution-grid-snake.gif)
+
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=igoortech12&show_icons=true&locale=en&px12" alt="igoortech12" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igoortech12&px12" alt="igoortech12" />
