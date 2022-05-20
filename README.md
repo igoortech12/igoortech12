@@ -3,8 +3,8 @@
 <h3 align="center">SysAdmin and DevOps in construction</h3>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=igoortech12&show_icons=true&locale=en" alt="igoortech12" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=igoortech12&" alt="igoortech12" />
+<img src="https://github-readme-stats.vercel.app/api?username=igoortech12&show_icons=true&locale=en&px12" alt="igoortech12" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=igoortech12&px12" alt="igoortech12" />
 </div>
 
 <div>
