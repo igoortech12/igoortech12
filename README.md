@@ -8,7 +8,7 @@
 </div>
 
 <div>
-<br><p align="center"> <a href="https://github.com/igoortech12/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igoortech12&theme=onedark&row=2&column=3" alt="igoortech12" /></a> </p>
+<br><p> <a href="https://github.com/igoortech12/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=igoortech12&theme=onedark&row=2&column=3" alt="igoortech12" /></a> </p>
 </div>
 
 <h3 align="left">Connect with me:</h3>
